@@ -1,0 +1,20 @@
+[2025-04-06 04:18:12] --- SecurityMonitor Started ---
+[2025-04-06 04:18:12] Project Directory: D:\GITHUB\SecurityMonitor
+[2025-04-06 04:18:12] Message-only window created successfully.
+[2025-04-06 04:18:12] Successfully registered clipboard listener.
+[2025-04-06 04:18:12] Successfully registered for device notifications.
+[2025-04-06 04:18:12] Starting message loop. Monitoring active...
+[2025-04-06 04:18:25] --- SecurityMonitor Started ---
+[2025-04-06 04:18:25] Project Directory: D:\GITHUB\SecurityMonitor
+[2025-04-06 04:18:25] Message-only window created successfully.
+[2025-04-06 04:18:25] Successfully registered clipboard listener.
+[2025-04-06 04:18:25] Successfully registered for device notifications.
+[2025-04-06 04:18:25] Starting message loop. Monitoring active...
+[2025-04-06 04:19:05] Clipboard content changed (Copy/Paste detected).
+[2025-04-06 04:19:05] Clipboard content changed (Copy/Paste detected).
+[2025-04-06 04:19:59] Clipboard content changed (Copy/Paste detected).
+[2025-04-06 04:20:28] Clipboard content changed (Copy/Paste detected).
+[2025-04-06 04:20:28] Clipboard content changed (Copy/Paste detected).
+[2025-04-06 04:20:30] Clipboard content changed (Copy/Paste detected).
+[2025-04-06 04:20:30] Clipboard content changed (Copy/Paste detected).
+[2025-04-06 04:20:30] Clipboard content changed (Copy/Paste detected).
